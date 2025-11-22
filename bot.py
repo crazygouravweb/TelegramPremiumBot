@@ -8,7 +8,7 @@ TOKEN = "7328171287:AAEJfKeLnE746bT7pSWb1Nazw7MmpMc0NEY"
 ADMIN_ID = 6585361526  # Apna Telegram User ID Yahan Daalein
 PREMIUM_CHANNEL_LINK = "https://t.me/JOIN_LINK_TO_YOUR_PREMIUM_CHANNEL"
 PREMIUM_AMOUNT = "₹199" # Premium ka amount
-QR_CODE_PATH = 'qr_code.jpg' # QR Code image file ka naam
+QR_CODE_PATH = 'Screenshot_20251122-221002.jpg' # QR Code image file ka naam
 
 # Setup logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
